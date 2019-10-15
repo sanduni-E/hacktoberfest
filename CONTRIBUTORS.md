@@ -1,4 +1,9 @@
-﻿#### Name: Vallenain
+#### Name: Gayathri Buddhika
+ - Place: Galle, Sri Lanka
+ - Bio: Unsdergraduate in Sabaragamuwa University of Sri Lanka.
+ - GitHub: [Gayathri](https://github.com/gayathribuddhika)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
